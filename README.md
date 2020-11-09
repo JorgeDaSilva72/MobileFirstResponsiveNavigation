@@ -1,3 +1,1 @@
-# html5-boilerplate
-html5 boilerplate
-version 6.1.0
+Nous avons créé un menu simple, responsible et compatible avec les interfaces tactiles en utilisant une approche Mobile First, tout en donnant plus d'importance au contenu de notre page et en améliorant l'expérience utilisateur. Que demander de plus?!
